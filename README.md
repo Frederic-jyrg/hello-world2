@@ -1,5 +1,6 @@
 # hello-world2
 same test
 another test
-YOU ARE NOT A BULGARIAN SPY
-delete this: that's another line
+delete this: YOU ARE NOT A BULGARIAN SPY
+not this: that's another line
+replace by: I am a toto not a jojo
